@@ -1,4 +1,3 @@
-<!-- ExpenseItemSlot.vue -->
 <template>
   <div>
     <slot name="expense" :expense="expense">

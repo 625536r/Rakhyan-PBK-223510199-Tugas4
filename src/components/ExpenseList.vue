@@ -1,4 +1,3 @@
-<!-- ExpenseList.vue -->
 <template>
   <div>
     <h2>Riwayat Pembelanjaan</h2>
